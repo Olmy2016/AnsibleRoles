@@ -1,0 +1,6 @@
+- name:
+  hosts: all
+  vars:
+    deployment_path: "~/Infrastructure"
+    git_repository: "https://github.com/Olmy2016/Infrastructure"
+    git_branch: "main"
